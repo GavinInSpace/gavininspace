@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/gavininspace/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gavininspace/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/gavininspace/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/gavininspace/ConfigActiveDirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gavininspace/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
